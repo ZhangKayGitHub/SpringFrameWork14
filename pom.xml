@@ -31,12 +31,6 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.6</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/com.mchange/c3p0 -->
-        <dependency>
-            <groupId>com.mchange</groupId>
-            <artifactId>c3p0</artifactId>
-            <version>0.9.5.2</version>
-        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -47,6 +41,7 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.9.3</version>
         </dependency>
+             <!--缺少c3p0依赖-->
     </dependencies>
 
 
